@@ -1,4 +1,4 @@
-Ejemplo basico de API / CRUD usando NODEJS y su framework EXPRESS
+# Ejemplo basico de API / CRUD usando NODEJS y su framework EXPRESS
 
 ### INSTALAR DEPENDENCIAS ###
 npm install
@@ -15,5 +15,5 @@ npm run dev
 
 
 ### USAR CLIENTE HTTP ###
-Ejemplo: postman
+Recomendaciones: postman, insomia, httppie
 
